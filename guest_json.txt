@@ -1,0 +1,13 @@
+{
+	"forename": "Marko",
+	"surname": "Markovic",
+	"country": "Serbia",
+	"address": "Pere Perica 39",
+	"zipcode": 11000,
+	"id_type": "Licna karta",
+	"gender": "Musko",
+	"birth_date": "20/01/1999",
+	"phone_number": "061234567",
+	"email": "marko@gmail.com",
+	"roomId": 3
+}

@@ -1,0 +1,7 @@
+{
+    "service_id": 2,
+    "arrival_at": "12/09/2019",
+    "departure_at": "15/10/2019",
+    "meals": 3,
+    "guestId": 3
+}
